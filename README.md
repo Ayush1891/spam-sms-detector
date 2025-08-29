@@ -1,4 +1,4 @@
-# SMS Spam Classifier
+# Spam SMS Detector
 
 ## 📋 Overview
 
